@@ -38,7 +38,7 @@ that are not built in with python.
 
 ---
 Lastly, you need to install any of the third party libraries, as mentioned
-above, so that the script can run quickly. These dependencies are stored in 
+above, so that the script can run. These dependencies are stored in 
 a file called `requirements.txt`. To install all the requirements run 
 the following command:
 
@@ -74,4 +74,4 @@ The author of the script itself was **Landon Hart** who is currently 12 years
  [http://jservice.io/](http://jservice.io/) and has been a great help in 
  teaching my son about REST'ful web services as well as transforming JSON
  into actual python data structures that can be manipulated. Much thanks to 
- [https://github.com/sottenad/jService]sottenad for his github project! 
+ [https://github.com/sottenad/jService](sottenad) for his github project! 
