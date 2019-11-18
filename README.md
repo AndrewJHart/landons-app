@@ -29,9 +29,16 @@ Next you need to activate the virtual environment to ensure your python
 dependencies are being installed only into the venv folder within the 
 project directory. To activate the virtual environment run this command
 
+**For Windows**
 ```bash
 $ venv/Scripts/activate.bat
 ```
+
+**For Linux/Mac OSx**
+```bash
+$ . venv/bin/activate
+```
+
 Now you have activated your virtual environment!! Lets install our required 
 dependencies that are used for this project e.g. third party dependencies 
 that are not built in with python.
