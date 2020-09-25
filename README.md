@@ -1,6 +1,9 @@
 ## Landon's Science Questionnaire
 
-> This is a simple test app to prove a theory for a science fair project
+> This is a simple python application that my 11 year old son wrote for his
+> science fair, intended to query real jeopardy questions, given a category,
+> and ask those questions, checking the answer to see if it is correct or as close
+> as possible. 
 
 ## How to setup 
 
