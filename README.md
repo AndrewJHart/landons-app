@@ -94,7 +94,7 @@ Now we need to create a virtual environment. Why? Because unfortunately the pyth
 depending on different versions of dependencies. You can look more into virtual env's later but for now 
 lets create a python 3 virtual environment: 
 ```bash
-$ python -m venv venv
+$ python3 -m venv venv
 ```
 This will create a folder in your project directory named `venv` that will
 hold all the python package dependencies needed to run your project, without
